@@ -2,7 +2,7 @@
 
 This project allows you to chat with your PDF documents. It's a great way to quickly find information and get answers from your files.
 
-![Img] (./docs/pdfchat.png)
+![Img](./docs/pdfchat.png)
 
 ---
 
